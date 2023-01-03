@@ -12,10 +12,10 @@ namespace Gerenciador_de_Cadastro
             Pessoa pessoa1 = new Pessoa()
             {
                 Nome = "Carolina",
-                CPF = 80559204000,
+                CPF = 80893244598,
                 DataDeNascimento = DateTime.Parse("16-02-1981"),
                 Email= "ca.monteiro16@gmail.com",
-                Telefone = "(51) 98556-9495"
+                Telefone = "(51) 99999-9495"
             };
 
 
