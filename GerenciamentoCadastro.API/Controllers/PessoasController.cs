@@ -20,14 +20,14 @@ namespace GerenciamentoCadastro.API.Controllers
             {
                 new Pessoa{
                     Nome = "Carolina",
-                    CPF = 80559204000,
+                    CPF = 80808080800,
                     DataDeNascimento = DateTime.Parse("16-02-1981"),
                     Email = "ca.monteiro16@gmail.com",
                     Telefone = "(51) 98556-9495"
                 },
                 new Pessoa{
                     Nome = "Abel",
-                    CPF = 93306423068,
+                    CPF = 466587987478,
                     DataDeNascimento = DateTime.Parse("21-04-1979"),
                     Email = "abellopes@gmail.com",
                     Telefone = "(51) 98102-1106"
